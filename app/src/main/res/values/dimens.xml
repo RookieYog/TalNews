@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--layout_main ImageSticher height-->
+    <dimen name="image_swticher_height">200dp</dimen>
+    <!--布局文件上半部分的高-->
+    <dimen name="header_height">250dp</dimen>
+
+
+</resources>

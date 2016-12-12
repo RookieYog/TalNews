@@ -1,0 +1,2 @@
+include ':app', ':recyclelibrary'
+project(':recyclelibrary').projectDir = new File('app/extras/recyclelibrary')

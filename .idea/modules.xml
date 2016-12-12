@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TalNews.iml" filepath="$PROJECT_DIR$/TalNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/extras/recyclelibrary/recyclelibrary.iml" filepath="$PROJECT_DIR$/app/extras/recyclelibrary/recyclelibrary.iml" />
+    </modules>
+  </component>
+</project>
